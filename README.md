@@ -1,6 +1,6 @@
 # Modelo de Machine Learning utilizando Regressão Linear para Prever o Preço de Automóveis
 
-![alt text](https://github.com/mfaysoares/Qtd_Cupcakes/blob/main/cover.png)
+![alt text](https://github.com/mfaysoares/Simulador_Preco_Carros/blob/main/cover.png)
 
 Nesse projeto, foi desenvolvido um modelo de **Machine Learning** utilizando a técnica de **Regressão Linear** para obter o preço de automóveis de acordo com o ano de fabricação, número de assentos e quilômetros rodados.
 
